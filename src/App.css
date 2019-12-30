@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.AppBackground{
+  background-color: #355C7D;
+}
+
